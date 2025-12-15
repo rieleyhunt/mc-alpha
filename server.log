@@ -1,0 +1,87 @@
+2025-12-12 19:00:51 [INFO] Starting minecraft server version 0.2.8
+2025-12-12 19:00:51 [INFO] Loading properties
+2025-12-12 19:00:51 [WARNING] server.properties does not exist
+2025-12-12 19:00:51 [INFO] Generating new properties file
+2025-12-12 19:00:51 [INFO] Starting Minecraft server on *:25565
+2025-12-12 19:00:51 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2025-12-12 19:00:51 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2025-12-12 19:00:51 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (No such file or directory)
+2025-12-12 19:00:51 [INFO] Preparing level "world"
+2025-12-12 19:00:51 [INFO] Preparing start region
+2025-12-12 19:00:52 [INFO] Done! For help, type "help" or "?"
+2025-12-12 19:10:21 [INFO] /127.0.0.1:40680 lost connection
+2025-12-12 19:10:51 [INFO] To run the server without a gui, start it like this:
+2025-12-12 19:10:51 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2025-12-12 19:10:51 [INFO] Console commands:
+2025-12-12 19:10:51 [INFO]    help  or  ?               shows this message
+2025-12-12 19:10:51 [INFO]    kick <player>             removes a player from the server
+2025-12-12 19:10:51 [INFO]    ban <player>              bans a player from the server
+2025-12-12 19:10:51 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2025-12-12 19:10:51 [INFO]    ban-ip <ip>               bans an IP address from the server
+2025-12-12 19:10:51 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2025-12-12 19:10:51 [INFO]    op <player>               turns a player into an op
+2025-12-12 19:10:51 [INFO]    deop <player>             removes op status from a player
+2025-12-12 19:10:51 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2025-12-12 19:10:51 [INFO]    give <player> <id> [num]  gives a player a resource
+2025-12-12 19:10:51 [INFO]    tell <player> <message>   sends a private message to a player
+2025-12-12 19:10:51 [INFO]    stop                      gracefully stops the server
+2025-12-12 19:10:51 [INFO]    save-all                  forces a server-wide level save
+2025-12-12 19:10:51 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2025-12-12 19:10:51 [INFO]    save-on                   re-enables terrain saving
+2025-12-12 19:10:51 [INFO]    list                      lists all currently connected players
+2025-12-12 19:10:51 [INFO]    say <message>             broadcasts a message to all players
+2025-12-12 19:11:35 [INFO] /127.0.0.1:52448 lost connection
+2025-12-12 19:11:48 [INFO] /127.0.0.1:35986 lost connection
+2025-12-12 19:18:29 [INFO] Starting minecraft server version 0.2.8
+2025-12-12 19:18:29 [INFO] Loading properties
+2025-12-12 19:18:29 [INFO] Starting Minecraft server on *:25565
+2025-12-12 19:18:29 [INFO] Preparing level "world"
+2025-12-12 19:18:29 [INFO] Preparing start region
+2025-12-12 19:18:29 [INFO] Done! For help, type "help" or "?"
+2025-12-12 19:19:01 [INFO] /127.0.0.1:50064 lost connection
+2025-12-12 19:20:40 [INFO] Starting minecraft server version 0.2.8
+2025-12-12 19:20:40 [INFO] Loading properties
+2025-12-12 19:20:40 [INFO] Starting Minecraft server on *:25565
+2025-12-12 19:20:40 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-12-12 19:20:40 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-12-12 19:20:40 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-12-12 19:20:40 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2025-12-12 19:20:40 [INFO] Preparing level "world"
+2025-12-12 19:20:40 [INFO] Preparing start region
+2025-12-12 19:20:40 [INFO] Done! For help, type "help" or "?"
+2025-12-12 19:21:07 [INFO] Player524 [/127.0.0.1:40440] logged in with entity id 0
+2025-12-12 19:21:58 [INFO] Very_Wet_Paper [/127.0.0.1:47660] logged in with entity id 1365
+2025-12-12 19:27:58 [INFO] Player524 lost connection: Quitting
+2025-12-12 19:28:09 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-12 19:41:41 [INFO] Very_Wet_Paper [/127.0.0.1:51448] logged in with entity id 7620
+2025-12-12 19:47:53 [INFO] Starting minecraft server version 0.2.8
+2025-12-12 19:47:53 [INFO] Loading properties
+2025-12-12 19:47:53 [INFO] Starting Minecraft server on *:25565
+2025-12-12 19:47:53 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-12-12 19:47:53 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-12-12 19:47:53 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-12-12 19:47:53 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2025-12-12 19:47:53 [INFO] Preparing level "world"
+2025-12-12 19:47:53 [INFO] Preparing start region
+2025-12-12 19:47:53 [INFO] Done! For help, type "help" or "?"
+2025-12-12 19:48:58 [INFO] Player524 [/127.0.0.1:36442] logged in with entity id 88
+2025-12-12 19:51:03 [INFO] Very_Wet_Paper [/127.0.0.1:59106] logged in with entity id 1434
+2025-12-12 19:51:16 [INFO] Player524 lost connection: Quitting
+2025-12-12 19:51:18 [INFO] Player524 [/127.0.0.1:36516] logged in with entity id 1654
+2025-12-12 19:51:56 [INFO] Player524 lost connection: End of stream
+2025-12-12 19:52:13 [INFO] Player524 [/127.0.0.1:47498] logged in with entity id 2739
+2025-12-12 19:52:56 [INFO] Player524 lost connection: End of stream
+2025-12-12 19:53:10 [INFO] Player524 [/127.0.0.1:40858] logged in with entity id 5147
+2025-12-12 20:11:13 [INFO] Player524 tried command: help
+2025-12-12 20:11:16 [INFO] <Player524> ahh
+2025-12-12 20:13:53 [INFO] Player524 tried command: setspawn
+2025-12-12 20:13:58 [INFO] Player524 tried command: toggledownfall
+2025-12-12 20:14:16 [INFO] Player524 tried command: tp @s very_wet_paper
+2025-12-12 20:14:43 [INFO] Player524 tried command: tp Player524 Very_Wet_Paper
+2025-12-12 20:32:40 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-12 20:32:42 [INFO] Very_Wet_Paper [/127.0.0.1:33590] logged in with entity id 57851
+2025-12-12 20:33:29 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-12 20:33:31 [INFO] Very_Wet_Paper [/127.0.0.1:51246] logged in with entity id 58321
+2025-12-12 21:57:16 [INFO] <Very_Wet_Paper> 74 66 138
+2025-12-12 22:06:17 [INFO] Player524 lost connection: Quitting
+2025-12-12 22:06:39 [INFO] Very_Wet_Paper lost connection: Quitting
