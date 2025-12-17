@@ -169,3 +169,349 @@
 2025-12-14 21:17:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2025-12-14 21:17:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2025-12-14 21:19:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2025-12-14 21:27:24 [INFO] Starting minecraft server version 0.2.8
+2025-12-14 21:27:24 [INFO] Loading properties
+2025-12-14 21:27:24 [INFO] Starting Minecraft server on *:25565
+2025-12-14 21:27:24 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-12-14 21:27:24 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-12-14 21:27:24 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-12-14 21:27:24 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2025-12-14 21:27:24 [INFO] Preparing level "world"
+2025-12-14 21:27:24 [INFO] Preparing start region
+2025-12-14 21:27:24 [INFO] Done! For help, type "help" or "?"
+2025-12-14 21:27:48 [INFO] Player524 [/127.0.0.1:54484] logged in with entity id 1
+2025-12-14 21:28:07 [INFO] Player524 lost connection: Quitting
+2025-12-16 18:06:17 [INFO] Starting minecraft server version 0.2.8
+2025-12-16 18:06:17 [INFO] Loading properties
+2025-12-16 18:06:17 [INFO] Starting Minecraft server on *:25565
+2025-12-16 18:06:17 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-12-16 18:06:17 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-12-16 18:06:17 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-12-16 18:06:17 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2025-12-16 18:06:17 [INFO] Preparing level "world"
+2025-12-16 18:06:17 [INFO] Preparing start region
+2025-12-16 18:06:17 [INFO] Done! For help, type "help" or "?"
+2025-12-16 18:09:00 [INFO] Very_Wet_Paper [/127.0.0.1:36112] logged in with entity id 0
+2025-12-16 18:25:53 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 18:26:14 [INFO] Player524 [/127.0.0.1:53182] logged in with entity id 15700
+2025-12-16 18:26:18 [INFO] Very_Wet_Paper [/127.0.0.1:42340] logged in with entity id 15819
+2025-12-16 18:43:58 [INFO] Very_Wet_Paper lost connection: End of stream
+2025-12-16 18:44:22 [INFO] Very_Wet_Paper [/127.0.0.1:44352] logged in with entity id 32024
+2025-12-16 19:16:04 [INFO] Player524 lost connection: Quitting
+2025-12-16 19:16:05 [INFO] Player524 [/127.0.0.1:50174] logged in with entity id 63143
+2025-12-16 19:23:10 [INFO] Player524 lost connection: Quitting
+2025-12-16 19:24:31 [INFO] Player524 [/127.0.0.1:44858] logged in with entity id 68528
+2025-12-16 19:24:59 [INFO] Player524 lost connection: Quitting
+2025-12-16 19:26:34 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 19:26:37 [INFO] Very_Wet_Paper [/127.0.0.1:46238] logged in with entity id 69874
+2025-12-16 19:35:45 [INFO] Player524 [/127.0.0.1:49706] logged in with entity id 75546
+2025-12-16 19:35:57 [INFO] Player524 lost connection: Quitting
+2025-12-16 19:41:17 [INFO] Player524 [/127.0.0.1:39576] logged in with entity id 78968
+2025-12-16 19:42:56 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 19:42:58 [INFO] Very_Wet_Paper [/127.0.0.1:34172] logged in with entity id 79859
+2025-12-16 20:14:07 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 20:14:09 [INFO] Very_Wet_Paper [/127.0.0.1:34656] logged in with entity id 101333
+2025-12-16 20:14:13 [INFO] Player524 lost connection: Quitting
+2025-12-16 20:14:14 [INFO] Player524 [/127.0.0.1:34670] logged in with entity id 101386
+2025-12-16 21:01:11 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:01:13 [INFO] Player524 [/127.0.0.1:46068] logged in with entity id 133298
+2025-12-16 21:01:22 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:01:23 [INFO] Player524 [/127.0.0.1:39804] logged in with entity id 133379
+2025-12-16 21:01:40 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:01:43 [INFO] Player524 [/127.0.0.1:34704] logged in with entity id 133573
+2025-12-16 21:03:48 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:03:51 [INFO] Player524 [/127.0.0.1:38364] logged in with entity id 134927
+2025-12-16 21:04:17 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:04:20 [INFO] Very_Wet_Paper [/127.0.0.1:38352] logged in with entity id 135187
+2025-12-16 21:04:29 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:04:32 [INFO] Very_Wet_Paper [/127.0.0.1:54080] logged in with entity id 135313
+2025-12-16 21:05:09 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:05:12 [INFO] Very_Wet_Paper [/127.0.0.1:33250] logged in with entity id 135627
+2025-12-16 21:05:16 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:05:19 [INFO] Very_Wet_Paper [/127.0.0.1:51240] logged in with entity id 135721
+2025-12-16 21:09:32 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:09:35 [INFO] Very_Wet_Paper [/127.0.0.1:46976] logged in with entity id 138227
+2025-12-16 21:09:54 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:09:56 [INFO] Very_Wet_Paper [/127.0.0.1:56128] logged in with entity id 138413
+2025-12-16 21:10:14 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:10:16 [INFO] Very_Wet_Paper [/127.0.0.1:35670] logged in with entity id 138546
+2025-12-16 21:10:39 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:10:40 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:10:42 [INFO] Player524 [/127.0.0.1:40120] logged in with entity id 138812
+2025-12-16 21:10:44 [INFO] Very_Wet_Paper [/127.0.0.1:40130] logged in with entity id 138971
+2025-12-16 21:10:57 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:10:59 [INFO] Very_Wet_Paper [/127.0.0.1:47398] logged in with entity id 138991
+2025-12-16 21:11:19 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:11:19 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:11:20 [INFO] Player524 [/127.0.0.1:51092] logged in with entity id 139056
+2025-12-16 21:11:21 [INFO] Very_Wet_Paper [/127.0.0.1:51102] logged in with entity id 139211
+2025-12-16 21:11:29 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:11:31 [INFO] Player524 [/127.0.0.1:35298] logged in with entity id 139239
+2025-12-16 21:11:35 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:11:37 [INFO] Very_Wet_Paper [/127.0.0.1:55382] logged in with entity id 139250
+2025-12-16 21:11:43 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:11:44 [INFO] Player524 [/127.0.0.1:55388] logged in with entity id 139318
+2025-12-16 21:11:59 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:12:01 [INFO] Player524 [/127.0.0.1:44702] logged in with entity id 139363
+2025-12-16 21:12:09 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:12:11 [INFO] Very_Wet_Paper [/127.0.0.1:33220] logged in with entity id 139413
+2025-12-16 21:12:19 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:12:21 [INFO] Player524 [/127.0.0.1:44312] logged in with entity id 139513
+2025-12-16 21:12:38 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:12:40 [INFO] Very_Wet_Paper [/127.0.0.1:52886] logged in with entity id 139636
+2025-12-16 21:12:44 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:12:45 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:12:46 [INFO] Very_Wet_Paper [/127.0.0.1:48784] logged in with entity id 139655
+2025-12-16 21:12:46 [INFO] Player524 [/127.0.0.1:48796] logged in with entity id 139810
+2025-12-16 21:12:52 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:12:54 [INFO] Very_Wet_Paper [/127.0.0.1:48808] logged in with entity id 139819
+2025-12-16 21:12:59 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:13:00 [INFO] Player524 [/127.0.0.1:44526] logged in with entity id 139829
+2025-12-16 21:13:08 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:13:10 [INFO] Very_Wet_Paper [/127.0.0.1:46172] logged in with entity id 139856
+2025-12-16 21:13:16 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:13:17 [INFO] Player524 [/127.0.0.1:60370] logged in with entity id 139876
+2025-12-16 21:13:21 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:13:22 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:13:23 [INFO] Player524 [/127.0.0.1:60378] logged in with entity id 139888
+2025-12-16 21:13:23 [INFO] Very_Wet_Paper [/127.0.0.1:60384] logged in with entity id 140058
+2025-12-16 21:13:28 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:13:30 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:13:30 [INFO] Very_Wet_Paper [/127.0.0.1:37036] logged in with entity id 140096
+2025-12-16 21:13:31 [INFO] Player524 [/127.0.0.1:37042] logged in with entity id 140262
+2025-12-16 21:13:34 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:13:36 [INFO] Player524 [/127.0.0.1:47328] logged in with entity id 140267
+2025-12-16 21:13:36 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:13:39 [INFO] Very_Wet_Paper [/127.0.0.1:47338] logged in with entity id 140268
+2025-12-16 21:13:46 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:13:48 [INFO] Very_Wet_Paper [/127.0.0.1:41648] logged in with entity id 140279
+2025-12-16 21:13:51 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:13:53 [INFO] Player524 [/127.0.0.1:41654] logged in with entity id 140281
+2025-12-16 21:14:00 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:14:01 [INFO] Player524 [/127.0.0.1:60474] logged in with entity id 140289
+2025-12-16 21:14:02 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:14:04 [INFO] Very_Wet_Paper [/127.0.0.1:60484] logged in with entity id 140321
+2025-12-16 21:14:18 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:14:19 [INFO] Player524 [/127.0.0.1:51638] logged in with entity id 140414
+2025-12-16 21:14:20 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:14:22 [INFO] Very_Wet_Paper [/127.0.0.1:51642] logged in with entity id 140438
+2025-12-16 21:14:35 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:14:38 [INFO] Very_Wet_Paper [/127.0.0.1:48784] logged in with entity id 140646
+2025-12-16 21:14:48 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:14:49 [INFO] Player524 [/127.0.0.1:46342] logged in with entity id 140735
+2025-12-16 21:14:53 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:14:55 [INFO] Player524 [/127.0.0.1:46350] logged in with entity id 140779
+2025-12-16 21:15:01 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:15:02 [INFO] Player524 [/127.0.0.1:58372] logged in with entity id 140859
+2025-12-16 21:15:05 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:15:07 [INFO] Player524 [/127.0.0.1:36216] logged in with entity id 140891
+2025-12-16 21:15:19 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:15:21 [INFO] Player524 [/127.0.0.1:45308] logged in with entity id 141032
+2025-12-16 21:15:29 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:15:32 [INFO] Very_Wet_Paper [/127.0.0.1:52562] logged in with entity id 141119
+2025-12-16 21:15:36 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:15:38 [INFO] Very_Wet_Paper [/127.0.0.1:43408] logged in with entity id 141171
+2025-12-16 21:15:50 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:15:53 [INFO] Very_Wet_Paper [/127.0.0.1:58310] logged in with entity id 141260
+2025-12-16 21:16:32 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:16:33 [INFO] Very_Wet_Paper [/127.0.0.1:48926] logged in with entity id 141713
+2025-12-16 21:16:43 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:16:44 [INFO] Very_Wet_Paper [/127.0.0.1:54394] logged in with entity id 141901
+2025-12-16 21:16:53 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:16:53 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:16:55 [INFO] Player524 [/127.0.0.1:48190] logged in with entity id 142037
+2025-12-16 21:16:56 [INFO] Very_Wet_Paper [/127.0.0.1:43696] logged in with entity id 142242
+2025-12-16 21:17:36 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:17:44 [INFO] Very_Wet_Paper [/127.0.0.1:33354] logged in with entity id 142391
+2025-12-16 21:18:05 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:18:08 [INFO] Very_Wet_Paper [/127.0.0.1:36780] logged in with entity id 142613
+2025-12-16 21:18:09 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:18:11 [INFO] Player524 [/127.0.0.1:36796] logged in with entity id 142633
+2025-12-16 21:18:12 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:18:15 [INFO] Very_Wet_Paper [/127.0.0.1:36802] logged in with entity id 142683
+2025-12-16 21:18:21 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:18:23 [INFO] Very_Wet_Paper [/127.0.0.1:36426] logged in with entity id 142805
+2025-12-16 21:18:36 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:18:38 [INFO] Very_Wet_Paper [/127.0.0.1:58198] logged in with entity id 142962
+2025-12-16 21:18:41 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:18:43 [INFO] Player524 [/127.0.0.1:58212] logged in with entity id 143007
+2025-12-16 21:18:48 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:18:50 [INFO] Player524 [/127.0.0.1:36692] logged in with entity id 143046
+2025-12-16 21:20:25 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:20:26 [INFO] Very_Wet_Paper [/127.0.0.1:40864] logged in with entity id 144047
+2025-12-16 21:20:37 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:20:39 [INFO] Very_Wet_Paper [/127.0.0.1:57406] logged in with entity id 144209
+2025-12-16 21:21:25 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:21:28 [INFO] Very_Wet_Paper [/127.0.0.1:52078] logged in with entity id 144782
+2025-12-16 21:21:30 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:21:32 [INFO] Very_Wet_Paper [/127.0.0.1:52082] logged in with entity id 144797
+2025-12-16 21:21:35 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:21:37 [INFO] Very_Wet_Paper [/127.0.0.1:34074] logged in with entity id 144838
+2025-12-16 21:21:40 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:21:42 [INFO] Very_Wet_Paper [/127.0.0.1:34078] logged in with entity id 144862
+2025-12-16 21:21:45 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:21:47 [INFO] Very_Wet_Paper [/127.0.0.1:60700] logged in with entity id 144925
+2025-12-16 21:21:49 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:21:51 [INFO] Very_Wet_Paper [/127.0.0.1:60712] logged in with entity id 145000
+2025-12-16 21:21:55 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:21:58 [INFO] Very_Wet_Paper [/127.0.0.1:56670] logged in with entity id 145051
+2025-12-16 21:22:01 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:04 [INFO] Very_Wet_Paper [/127.0.0.1:56678] logged in with entity id 145117
+2025-12-16 21:22:06 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:08 [INFO] Very_Wet_Paper [/127.0.0.1:58168] logged in with entity id 145166
+2025-12-16 21:22:11 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:13 [INFO] Very_Wet_Paper [/127.0.0.1:58170] logged in with entity id 145214
+2025-12-16 21:22:16 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:17 [INFO] Very_Wet_Paper [/127.0.0.1:34490] logged in with entity id 145295
+2025-12-16 21:22:22 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:24 [INFO] Very_Wet_Paper [/127.0.0.1:34502] logged in with entity id 145363
+2025-12-16 21:22:27 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:29 [INFO] Very_Wet_Paper [/127.0.0.1:40450] logged in with entity id 145404
+2025-12-16 21:22:32 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:34 [INFO] Very_Wet_Paper [/127.0.0.1:40466] logged in with entity id 145461
+2025-12-16 21:22:38 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:40 [INFO] Very_Wet_Paper [/127.0.0.1:42708] logged in with entity id 145533
+2025-12-16 21:22:42 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:44 [INFO] Very_Wet_Paper [/127.0.0.1:42712] logged in with entity id 145574
+2025-12-16 21:22:46 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:48 [INFO] Very_Wet_Paper [/127.0.0.1:59746] logged in with entity id 145615
+2025-12-16 21:22:55 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:22:57 [INFO] Very_Wet_Paper [/127.0.0.1:40078] logged in with entity id 145729
+2025-12-16 21:23:01 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:23:02 [INFO] Very_Wet_Paper [/127.0.0.1:40086] logged in with entity id 145794
+2025-12-16 21:23:05 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:23:07 [INFO] Very_Wet_Paper [/127.0.0.1:51492] logged in with entity id 145837
+2025-12-16 21:23:09 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:23:11 [INFO] Very_Wet_Paper [/127.0.0.1:51502] logged in with entity id 145873
+2025-12-16 21:23:13 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:23:15 [INFO] Very_Wet_Paper [/127.0.0.1:51518] logged in with entity id 145927
+2025-12-16 21:23:18 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:23:20 [INFO] Very_Wet_Paper [/127.0.0.1:57258] logged in with entity id 145963
+2025-12-16 21:23:22 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:23:23 [INFO] Very_Wet_Paper [/127.0.0.1:57262] logged in with entity id 145978
+2025-12-16 21:23:25 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:23:27 [INFO] Very_Wet_Paper [/127.0.0.1:36148] logged in with entity id 145996
+2025-12-16 21:23:29 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:23:30 [INFO] Very_Wet_Paper [/127.0.0.1:36164] logged in with entity id 146030
+2025-12-16 21:23:33 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:23:35 [INFO] Very_Wet_Paper [/127.0.0.1:36174] logged in with entity id 146074
+2025-12-16 21:23:38 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:23:39 [INFO] Very_Wet_Paper [/127.0.0.1:46558] logged in with entity id 146114
+2025-12-16 21:26:14 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:26:16 [INFO] Very_Wet_Paper [/127.0.0.1:36832] logged in with entity id 148437
+2025-12-16 21:29:12 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:29:14 [INFO] Player524 [/127.0.0.1:38634] logged in with entity id 150148
+2025-12-16 21:29:17 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:29:19 [INFO] Very_Wet_Paper [/127.0.0.1:48736] logged in with entity id 150189
+2025-12-16 21:29:22 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:29:24 [INFO] Very_Wet_Paper [/127.0.0.1:48740] logged in with entity id 150298
+2025-12-16 21:29:32 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:29:35 [INFO] Very_Wet_Paper [/127.0.0.1:54562] logged in with entity id 150459
+2025-12-16 21:29:38 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:29:44 [INFO] Very_Wet_Paper [/127.0.0.1:52116] logged in with entity id 150539
+2025-12-16 21:29:46 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:29:49 [INFO] Very_Wet_Paper [/127.0.0.1:58448] logged in with entity id 150597
+2025-12-16 21:29:52 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:29:55 [INFO] Very_Wet_Paper [/127.0.0.1:58450] logged in with entity id 150684
+2025-12-16 21:30:02 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:30:05 [INFO] Very_Wet_Paper [/127.0.0.1:49586] logged in with entity id 150875
+2025-12-16 21:30:14 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:30:16 [INFO] Player524 [/127.0.0.1:59260] logged in with entity id 151016
+2025-12-16 21:30:19 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:30:20 [INFO] Player524 [/127.0.0.1:45648] logged in with entity id 151078
+2025-12-16 21:30:23 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:30:24 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:30:26 [INFO] Player524 [/127.0.0.1:47522] logged in with entity id 151148
+2025-12-16 21:30:30 [INFO] Very_Wet_Paper [/127.0.0.1:47530] logged in with entity id 151299
+2025-12-16 21:30:32 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:30:33 [INFO] Player524 [/127.0.0.1:47532] logged in with entity id 151360
+2025-12-16 21:30:33 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:30:35 [INFO] Very_Wet_Paper [/127.0.0.1:47538] logged in with entity id 151393
+2025-12-16 21:30:37 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:30:38 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:30:39 [INFO] Player524 [/127.0.0.1:59248] logged in with entity id 151436
+2025-12-16 21:30:41 [INFO] Very_Wet_Paper [/127.0.0.1:59258] logged in with entity id 151566
+2025-12-16 21:30:43 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:30:47 [INFO] Very_Wet_Paper [/127.0.0.1:54452] logged in with entity id 151651
+2025-12-16 21:30:50 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:30:52 [INFO] Player524 [/127.0.0.1:54458] logged in with entity id 151716
+2025-12-16 21:30:54 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:30:57 [INFO] Player524 [/127.0.0.1:52370] logged in with entity id 151796
+2025-12-16 21:31:00 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:31:02 [INFO] Player524 [/127.0.0.1:52376] logged in with entity id 151888
+2025-12-16 21:31:07 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:31:09 [INFO] Player524 [/127.0.0.1:55308] logged in with entity id 151997
+2025-12-16 21:31:09 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:31:11 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:31:11 [INFO] Very_Wet_Paper [/127.0.0.1:55320] logged in with entity id 152006
+2025-12-16 21:31:14 [INFO] Player524 [/127.0.0.1:55330] logged in with entity id 152099
+2025-12-16 21:31:18 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:31:19 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:31:21 [INFO] Very_Wet_Paper [/127.0.0.1:41894] logged in with entity id 152129
+2025-12-16 21:31:21 [INFO] Player524 [/127.0.0.1:41904] logged in with entity id 152294
+2025-12-16 21:31:24 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:31:26 [INFO] Player524 [/127.0.0.1:48776] logged in with entity id 152333
+2025-12-16 21:31:30 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:31:34 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:31:36 [INFO] Very_Wet_Paper [/127.0.0.1:53236] logged in with entity id 152422
+2025-12-16 21:31:40 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:31:46 [INFO] Very_Wet_Paper [/127.0.0.1:53250] logged in with entity id 152595
+2025-12-16 21:32:21 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:32:24 [INFO] Very_Wet_Paper [/127.0.0.1:37376] logged in with entity id 152790
+2025-12-16 21:32:44 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:32:48 [INFO] Very_Wet_Paper [/127.0.0.1:49872] logged in with entity id 152990
+2025-12-16 21:33:51 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:33:53 [INFO] Very_Wet_Paper [/127.0.0.1:49474] logged in with entity id 153386
+2025-12-16 21:33:58 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:34:00 [INFO] Very_Wet_Paper [/127.0.0.1:60880] logged in with entity id 153592
+2025-12-16 21:34:05 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:34:07 [INFO] Very_Wet_Paper [/127.0.0.1:58778] logged in with entity id 153798
+2025-12-16 21:34:11 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:34:14 [INFO] Very_Wet_Paper [/127.0.0.1:58788] logged in with entity id 153992
+2025-12-16 21:34:18 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:34:22 [INFO] Very_Wet_Paper [/127.0.0.1:48598] logged in with entity id 154194
+2025-12-16 21:34:26 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:34:29 [INFO] Very_Wet_Paper [/127.0.0.1:58846] logged in with entity id 154374
+2025-12-16 21:34:38 [INFO] Player524 [/127.0.0.1:43554] logged in with entity id 154558
+2025-12-16 21:34:45 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:34:45 [INFO] Player524 lost connection: Quitting
+2025-12-16 21:34:47 [INFO] Very_Wet_Paper [/127.0.0.1:55548] logged in with entity id 154655
+2025-12-16 21:34:52 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:34:55 [INFO] Very_Wet_Paper [/127.0.0.1:55554] logged in with entity id 154834
+2025-12-16 21:35:03 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:35:06 [INFO] Very_Wet_Paper [/127.0.0.1:57460] logged in with entity id 155013
+2025-12-16 21:35:10 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:35:14 [INFO] Very_Wet_Paper [/127.0.0.1:60410] logged in with entity id 155190
+2025-12-16 21:35:18 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:35:21 [INFO] Very_Wet_Paper [/127.0.0.1:44900] logged in with entity id 155366
+2025-12-16 21:35:28 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:35:32 [INFO] Very_Wet_Paper [/127.0.0.1:52794] logged in with entity id 155545
+2025-12-16 21:35:37 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:35:40 [INFO] Very_Wet_Paper [/127.0.0.1:56078] logged in with entity id 155732
+2025-12-16 21:35:46 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:35:48 [INFO] Very_Wet_Paper [/127.0.0.1:39142] logged in with entity id 155945
+2025-12-16 21:35:55 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:35:59 [INFO] Very_Wet_Paper [/127.0.0.1:48630] logged in with entity id 156201
+2025-12-16 21:36:07 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:36:09 [INFO] Very_Wet_Paper [/127.0.0.1:33734] logged in with entity id 156444
+2025-12-16 21:36:12 [INFO] Player524 [/127.0.0.1:33750] logged in with entity id 156644
+2025-12-16 21:38:22 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:38:25 [INFO] Very_Wet_Paper [/127.0.0.1:59896] logged in with entity id 158578
+2025-12-16 21:38:31 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:38:35 [INFO] Very_Wet_Paper [/127.0.0.1:60552] logged in with entity id 158672
+2025-12-16 21:38:39 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:38:42 [INFO] Very_Wet_Paper [/127.0.0.1:55652] logged in with entity id 158731
+2025-12-16 21:38:48 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:38:51 [INFO] Very_Wet_Paper [/127.0.0.1:33866] logged in with entity id 158826
+2025-12-16 21:38:54 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:38:56 [INFO] Very_Wet_Paper [/127.0.0.1:33868] logged in with entity id 158875
+2025-12-16 21:38:58 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:39:00 [INFO] Very_Wet_Paper [/127.0.0.1:56620] logged in with entity id 158935
+2025-12-16 21:39:02 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:39:04 [INFO] Very_Wet_Paper [/127.0.0.1:56636] logged in with entity id 158994
+2025-12-16 21:39:07 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:39:09 [INFO] Very_Wet_Paper [/127.0.0.1:45856] logged in with entity id 159068
+2025-12-16 21:39:11 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:39:15 [INFO] Very_Wet_Paper [/127.0.0.1:45866] logged in with entity id 159131
+2025-12-16 21:40:24 [INFO] Very_Wet_Paper lost connection: Quitting
+2025-12-16 21:40:27 [INFO] Very_Wet_Paper [/127.0.0.1:50418] logged in with entity id 160320
